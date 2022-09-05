@@ -1,7 +1,5 @@
 public class GitGithubinEnYayginKomutlari {
 
-    // Komutlar, IntelliJ'de Terminal de yazilacak
-
 
     /*
     git init --> Her yeni proje ollusturdugumuzda sadece bir kereligine bu komut kullanilir.
