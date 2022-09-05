@@ -1,4 +1,4 @@
-public class GithubinEnYayginKomutlari {
+public class GitGithubinEnYayginKomutlari {
 
     // Komutlar, IntelliJ'de Terminal de yazilacak
 
